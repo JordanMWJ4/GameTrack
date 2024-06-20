@@ -14,14 +14,14 @@ function Home() {
       </Carousel.Caption>
     </Carousel.Item>
   <Carousel.Item>
-        <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYvlOmehZdy7GNL8c1pvJf9AHQb_c3iIzxDw&s.png' className='Img'></img>
+        <img src='https://static1.moviewebimages.com/wordpress/wp-content/uploads/2022/07/Super-Mario-Bros-L.jpg' className='Img'></img> 
         <Carousel.Caption>
-          <h3>GameTrackl</h3>
+          <h3 color='black'>GameTrackl</h3>
           <p>Games List.</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
-       <img src='https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg?t=1646763462.png ' className='img'></img>
+       <img src='https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i63vXXwMFIoc/v2/-1x-1.jpg ' className='img'></img>
         <Carousel.Caption>
           <h3>GameTrack</h3>
           <p>
